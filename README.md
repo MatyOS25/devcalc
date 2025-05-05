@@ -14,3 +14,5 @@ GET /divide?a=10&b=5 → retorna 2
 
 parte 4
 
+
+Seguindo regras do trabalho da INFNET, a API funcional esta no branch: feature/calculator-endpoints
