@@ -12,3 +12,5 @@ GET /multiply?a=10&b=5 → retorna 50
 
 GET /divide?a=10&b=5 → retorna 2
 
+parte 4
+
